@@ -13,13 +13,26 @@
         "title": "Post 3"
       }
     ],
-    "comments": { 
-        "iTotalRecords": 50,
-        "iTotalDisplayRecords": 10,
-        "sEcho":10,
-        "aaData": [
-            {"name": "Sitepoint", "url": "http://sitepoint.com", "editor" :{ "name" : "John Doe", "phone" : ["9191919", "1212121"], "email":[]}},
-            {"name": "Flippa", "url": "http://flippa.com",  "editor": { "name": "Adam Smith", "email" : ["adam.smith@domain.com"], "phone":[] }}
+    "comments": {  
+        "iTotalRecords":2,
+        "sEcho":1,
+        "aaData":[  
+           {  
+              "ip":"99.248.1.7",
+              "0":"99.248.1.7",
+              "description":"blocking venngage hotspot",
+              "1":"blocking venngage hotspot",
+              "type":"chatra",
+              "2":"chatra"
+           },
+           {  
+              "ip":"FE80:CD00:0000:0CDE:1257:0000:211E:729C",
+              "0":"FE80:CD00:0000:0CDE:1257:0000:211E:729C",
+              "description":"",
+              "1":"",
+              "type":"chatra",
+              "2":"chatra"
+           }
         ]
     },
     "profile": {
